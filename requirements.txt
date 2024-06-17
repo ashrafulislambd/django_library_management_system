@@ -7,7 +7,6 @@ certifi
 chardet
 click
 colorama
-command-not-found
 configobj
 crispy-bootstrap5
 cryptography
@@ -67,8 +66,6 @@ six
 sqlparse
 systemd-python
 typing_extensions
-ubuntu-drivers-common
-ubuntu-pro-client
 ufw
 unattended-upgrades
 urllib3
