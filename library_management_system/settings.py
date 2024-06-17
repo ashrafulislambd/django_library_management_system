@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-*3e&$y585ds8-wqea@k86*z2dj3ucvm$_tqv2ayg+$)o)20p6w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-library-management-system.onrender.com']
+ALLOWED_HOSTS = ['django-library-management-system.onrender.com', '.vercel.app',]
 
 
 # Application definition
